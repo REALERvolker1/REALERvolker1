@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @REALERvolker1
-- 👀 I’m interested in ... Minecraft mod dev
-- 🌱 I’m currently learning ... Java, more than I ever did in school that's for sure!
-- 💞️ I’m looking to collaborate on ... mc mods
-- 📫 How to reach me ... Join this discord https://discord.gg/DY9mcuesRk
+- 👀 I’m interested in ... w e b
+- 🌱 I’m currently learning ... how to write more things better
+- 💞️ I’m looking to collaborate on ... pretty much anything as long as it's in a language I know and it's something I care about
+- 📫 How to reach me ... volker1#0001 on discord
 
 <!---
 REALERvolker1/REALERvolker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
