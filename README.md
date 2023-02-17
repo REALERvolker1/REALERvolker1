@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @REALERvolker1
-- 👀 I’m interested in ... w e b
-- 🌱 I’m currently learning ... how to write more things better
-- 💞️ I’m looking to collaborate on ... pretty much anything as long as it's in a language I know and it's something I care about
-- 📫 How to reach me ... volker1#0001 on discord
+# Hello
+
+Welcome to my Github profile :D
+
+This repo is mainly an archive of my old projects. I am currently only actively working on a couple or so.
+
+Anyways, I usually use `Rust`, `Bash`, and `Python` nowadays, but I learned to code with `HTML/CSS/JS` and dove headfirst into `Typescript` when I finally saw the light. I would still say my most proficient language is `Javascript/Typescript`, with `Bash` close behind.
+
+Not that I like using Typescript for everything on the web, I find it annoying when I can't get something visual to work with CSS only.
+
+I am currently learning Rust right now -- it takes a long time to write but it's Blazingly Fast®™🚀🚀 at runtime and I appreciate that.
+
+If you want to collaborate with me, just say the word. I am currently in college studying bio/cs so my time is limited.
+
+My setup as of 2/17/23:
+- OS: [Fedora 37](https://spins.fedoraproject.org/i3/)
+- DE: [i3wm on xorg](https://github.com/i3/i3)
+- IDE: [VSCodium](https://github.com/VSCodium/vscodium)
+- Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
+
+If you're still reading, you might enjoy following me. I also have Discord (`vlk#1000`). If you add me on Discord, please tell me you came from Github.
+
+[![followers](https://img.shields.io/github/followers/REALERvolker1)](https://github.com/REALERvolker1)
 
 <!---
 REALERvolker1/REALERvolker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
