@@ -13,10 +13,11 @@ I am currently learning Rust right now -- it takes a long time to write but it's
 If you want to collaborate with me, just say the word. I am currently in college studying bio/cs so my time is limited.
 
 My setup as of 2/17/23:
-- OS: [Fedora 37](https://spins.fedoraproject.org/i3/)
-- DE: [i3wm on xorg](https://github.com/i3/i3)
+- OS: [Fedora 38](https://spins.fedoraproject.org/i3/)
+- DE: [Hyprland on Wayland](https://github.com/hyprwm/Hyprland), [i3wm on xorg](https://github.com/i3/i3)
 - IDE: [VSCodium](https://github.com/VSCodium/vscodium)
-- Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
+
+I have [public dotfiles](https://github.com/REALERvolker1/homescripts) too!
 
 If you're still reading, you might enjoy following me. I also have Discord (`vlk#1000`). If you add me on Discord, please tell me you came from Github.
 
