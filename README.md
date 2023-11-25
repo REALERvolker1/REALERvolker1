@@ -4,16 +4,16 @@ Welcome to my Github profile :D
 
 This repo is mainly an archive of my old projects. I am currently only actively working on a couple or so.
 
-I learned to code with `HTML/CSS/JS` and dove headfirst into `Typescript` when I finally saw the light. I would say my most proficient "real" language is `Javascript/Typescript`.
+I learned to code with `HTML/CSS/JS` and dove headfirst into `Typescript` when I finally saw the light. <!--I would say my most proficient "real" language is `Javascript/Typescript`.-->
 
-Not that I like using Typescript for everything on the web, I find it annoying when I can't get something visual to work with CSS only.
+<!--Not that I like using Typescript for everything on the web, I find it annoying when I can't get something visual to work with CSS only.-->
 
 I am currently learning Rust, zsh (alternative to bash), and perl.
 
 If you want to collaborate with me, just say the word. I am currently in college studying bio/cs so my time is limited.
 
 My setup as of 10/19/23:
-- OS: [Fedora 38](https://spins.fedoraproject.org/i3/)
+- OS: [Fedora 39](https://spins.fedoraproject.org/i3/)
 - DE: [Hyprland on Wayland](https://github.com/hyprwm/Hyprland), [i3wm on xorg](https://github.com/i3/i3)
 - IDE: [VSCodium](https://github.com/VSCodium/vscodium)
 
